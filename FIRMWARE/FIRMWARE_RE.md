@@ -181,10 +181,12 @@ After Analysing the program we could found that some comparison is taking place 
 - Now we need to run the programm and enter the password using **./challenge1**, then it asks for *"Enter the password"* and I entered the password as **"supersecret"**.
 
 #using the wsl analyse.
-![title](image/Capture.png)
-![title](image/Capture1_2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/Capture.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/Capture1_2.PNG)
+
  #using GIDRA
-![title](image/Capture2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/Capture2.PNG)
+
 
 
 2. If you got the password for the previous one, try this out. It won’t be as easy this time around *wink* .
@@ -192,15 +194,21 @@ After Analysing the program we could found that some comparison is taking place 
 - In these task we need to analyze the the program which is in assemble.
 - So these task is not simple as before , in these tasks we use **"gdb"** to analyse the programm for that we just use the command *"gdb ./challenge2"* and thus the program is open in gdb.
 - Now we use the command *"set disassembly-flavor intel"* so that we the code resembles the source code more closely and also use the command *"disas main"* to get the DUMp of assembler code for the function main.
-![title](image/challenge2_1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/challenge2_1.PNG)
+
 - After that set a breakpoint so that we can get the clear picture of how the code is executing. Using the command *"break main"* as we are starting from the top of the main function to see the flow of the program and also need to run the program usin the comamnd *"run"*, and also use command *"stepdi"* to see the next code execution
-![title](image/challenge2_2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/challenge2_2.PNG)
+
 - So use the command *"stepdi"* we found the the code is getting into the usage or some jump is seen in the program so we found that some input that is atleast 2 input char input is need to flow of the program from the line **"DWORD PTR [rbp-0x4],0x2"** the 0x2 corresponds to the value 2.
-![title](image/challenge2_3.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/challenge2_3.PNG)
+
 - After inputing some value we again do the same process and now the jump is taken place we use the command *"info registers"* as **"rax,0xa which corresponds to value 10"** so we get the number of strings that is length to be *"10"*.
-![title](image/challenge2_4.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/challenge2_4.PNG)
+
 -  And now we just see the programm and we found some interesting thing that is the **"al,0x40"** which is comparing some value that is *"0x40"* which corresponds to *"64"* and that corresponds to the symbol *"@"*, and alo foun that the symbol is placed at the position 4 .
-![title](image/challenge2_5.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/challenge2_5.PNG)
+
 - So we get the password as some *"10"* letters and having *"@*" at the position 4 so we run code like *"abcd@efghi"* and now we just do the above steps and these time it showing the flag so the password is confirmed, after the quit from gdb using *"q"*
-![title](image/challenge2_6.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image/challenge2_6.PNG)
+
 - Using the command *"./challenge2 abcd@efghi"* and hence we get the password succesfully with the command *"Nice Job"*
