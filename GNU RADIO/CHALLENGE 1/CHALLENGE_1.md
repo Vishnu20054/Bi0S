@@ -49,10 +49,11 @@ This is a QT-based graphical sink the takes set of a floating point streams and 
 
 
 ## THE FINAL BLOCKS 
-![](flowgraph.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%201/flowgraph.PNG)
 
 ## THE OUTPUT
-![](OUTPUT.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%201/OUTPUT.PNG)
+
 
 
 
