@@ -7,7 +7,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 1. We need to connect the  - bandit.labs.overthewire.org, port - 2220, username - bandit0 and password – bandit0. The option -p is tell the port to connect and the general command to connect is ssh username@address -p port.
 2. Thus we connected to the bandit.labs.overthewire.org and entered in level 0 .
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit0.PNG)
 
 ## LEVEL 0
 ### LEVEL GOAL
@@ -21,7 +21,7 @@ The password for the next level is stored in a file called readme located in the
 5. Now to get into the level1 we need to connect using - ssh bandit1@bandit.labs.overthewire.org -p 2220
 and password - **boJ9jbbUNNfktd78OOpsqOltutMc3MY1**
 
-![title](image/bandit1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit1.PNG)
 
 ## LEVEL 1
 ### LEVEL GOAL
@@ -35,7 +35,7 @@ The password for the next level is stored in a file called - located in the home
 5. Now to get into the level2 we need to connect using - ssh bandit2@bandit.labs.overthewire.org -p 2220
 and password - **CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9**
 
-![title](image/bandit2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit2.PNG)
 
 ## LEVEL 2
 ### LEVEL GOAL
@@ -49,7 +49,7 @@ The password for the next level is stored in a file called spaces in this filena
 5. Now to get into the level3 we need to connect using - ssh bandit3@bandit.labs.overthewire.org -p 2220
 and password - **UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK**
 
-![title](image/bandit3.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit3.PNG)
 
 ## LEVEL 3
 ### LEVEL GOAL
@@ -63,7 +63,7 @@ The password for the next level is stored in a hidden file in the inhere directo
 5. Now to get into the level4 we need to connect using - ssh bandit4@bandit.labs.overthewire.org -p 2220
 and password - **pIwrPrtPN36QITSp3EQaw936yaFoFgAB**
 
-![title](image/bandit4.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit4.PNG)
 
 ## LEVEL 4
 ### LEVEL GOAL
@@ -78,7 +78,7 @@ and then we need to display the password that is stored in using the command *" 
 5. Now to get into the level5 we need to connect using - ssh bandit5@bandit.labs.overthewire.org -p 2220
 and password - **koReBOKuIDDepwhWk7jZC0RTdopnAYKh**
 
-![title](image/bandit5.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit5.PNG)
 
 ## LEVEL 5
 ### LEVEL GOAL
@@ -96,7 +96,7 @@ not executable.
 5. Now to get into the level6 we need to connect using - ssh bandit6@bandit.labs.overthewire.org -p 2220
 and password - **DXjZPULLxYr17uwoI01bNLQbtFemEgo7**
 
-![title](image/bandit6.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit6.PNG)
 
 ## LEVEL 6
 ### LEVEL GOAL
@@ -115,8 +115,8 @@ owned by group bandit6
 5. Now to get into the level7 we need to connect using - ssh bandit7@bandit.labs.overthewire.org -p 2220
 and password - **HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**
 
-![title](image/bandit7.png)
-![title](image/bandit7.1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit7.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit7.1.PNG)
 
 ## LEVEL 7
 ### LEVEL GOAL
@@ -131,7 +131,7 @@ The password for the next level is stored in the file data.txt next to the word 
 5. Now to get into the level8 we need to connect using - ssh bandit8@bandit.labs.overthewire.org -p 2220
 and password - **cvX2JJa4CFALtqS87jk27qwqGhBM9plV**
 
-![title](image/bandit8.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit8.PNG)
 
 ## LEVEL 8
 ### LEVEL GOAL
@@ -146,8 +146,8 @@ The password for the next level is stored in the file data.txt and is the only l
 5. Now to get into the level9 we need to connect using - ssh bandit9@bandit.labs.overthewire.org -p 2220
 and password - **UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR**
 
-![title](image/bandit9.png)
-![title](image/bandit9.1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit9.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit9.1.PNG)
 
 ## LEVEL 9
 ### LEVEL GOAL
@@ -162,7 +162,7 @@ The password for the next level is stored in the file data.txt in one of the few
 5. Now to get into the level10 we need to connect using - ssh bandit10@bandit.labs.overthewire.org -p 2220
 and password - **truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk**
 
-![title](image/bandit10.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit10.PNG)
 
 ## LEVEL 10
 ### LEVEL GOAL
@@ -177,7 +177,7 @@ The password for the next level is stored in the file data.txt, which contains b
 5. Now to get into the level11 we need to connect using - ssh bandit11@bandit.labs.overthewire.org -p 2220
 and password - **IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR**
 
-![title](image/bandit11.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit11.PNG)
 
 ## LEVEL 11
 ### LEVEL GOAL
@@ -192,8 +192,8 @@ The password for the next level is stored in the file data.txt, where all lowerc
 5. Now to get into the level12 we need to connect using - ssh bandit12@bandit.labs.overthewire.org -p 2220
 and password - **5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu**
 
-![title](image/bandit12.png)
-![title](image/bandit12.1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit12.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit12.1.PNG)
 
 ## LEVEL 12
 ### LEVEL GOAL
@@ -213,8 +213,8 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 7. Now to get into the level13 we need to connect using - ssh bandit13@bandit.labs.overthewire.org -p 2220
 and password - **8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL**
 
-![title](image/bandit13.png)
-![title](image/bandit13.1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit13.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit13.1.PNG)
 
 ## LEVEL 13
 ### LEVEL GOAL
@@ -224,7 +224,7 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 1. In these level we only need to get into a level 15 where a password is stored under *"cat /etc/bandit_pass/bandit14"* 
 2. For getting into level14 we need to use the command *"ssh -i ./sshkey.private bandit14@localhost"*
 
-![title](image/bandit14.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit14.PNG)
 
 ## LEVEL 14
 ### LEVEL GOAL
@@ -239,7 +239,7 @@ The password for the next level can be retrieved by submitting the password of t
 5. Now to get into the level15 we need to connect using - ssh bandit15@bandit.labs.overthewire.org -p 2220
 and password - **BfMYroe26WYalil77FoDi9qh59eK5xNr**
 
-![title](image/bandit15.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit15.PNG)
 
 ## LEVEL 15
 ### LEVEL GOAL
@@ -254,7 +254,7 @@ The password for the next level can be retrieved by submitting the password of t
 5. Now to get into the level16 we need to connect using - ssh bandit16@bandit.labs.overthewire.org -p 2220
 and password - **cluFn7wTiGryunymYOu4RcffSxQluehd**
 
-![title](image/bandit16.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit16.PNG)
 
 ## LEVEL 16
 ### LEVEL GOAL
@@ -268,9 +268,9 @@ we find whether there exists the key,similarly we scan for other localhosts also
 4. Now we need to copy and paste the RSA key in the tmp using the command *"openssl s_client -connect localhsot : 31790 > private.key"* and using the command *"ls"* we can seek into the tmp file. After that we use chmod command is used to change the access mode of a file command as *"chmod 600 private.key"*
 5. Since, the RSA private key stored in a file, we can connect to bandit17 using ssh -i sshkey.private bandit17@localhost
 
-![title](image/bandit17.png)
-![title](image/bandit17.1.png)
-![title](image/bandit17.2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit17.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit17.1.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit17.2.PNG)
 
 ## LEVEL 17
 ### LEVEL GOAL
@@ -282,8 +282,8 @@ There are 2 files in the home directory: passwords.old and passwords.new. The pa
 3. Now to get into the level18 we need to connect using - ssh bandit18@bandit.labs.overthewire.org -p 2220
 and password - **kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd**
 
-![title](image/bandit18.png)
-![title](image/bandit18.1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit18.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit18.1.PNG)
 
 ## LEVEL 18
 ### LEVEL GOAL
@@ -297,8 +297,8 @@ The password for the next level is stored in a file readme in the homedirectory.
 3. Now to get into the level19 we need to connect using - ssh bandit19@bandit.labs.overthewire.org -p 2220
 and password - **IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x**
 
-![title](image/bandit19.png)
-![title](image/bandit19.1.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit19.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit19.1.PNG)
 
 ## LEVEL 19
 ### LEVEL GOAL
@@ -311,7 +311,7 @@ To gain access to the next level, you should use the setuid binary in the homedi
 4.  Now to get into the level20 we need to connect using - ssh bandit20@bandit.labs.overthewire.org -p 2220
 and password - **GbKksEFF4yrVs6il55v6gwY5aVje5f0j**
 
-![title](image/bandit20.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit20.PNG)
 
 ## LEVEL 20
 ### LEVEL GOAL
@@ -327,8 +327,10 @@ There is a setuid binary in the home directory that does the following:
 4.  Now to get into the level21 we need to connect using - ssh bandit21@bandit.labs.overthewire.org -p 2220
 and password - **gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr**
 
-![Terminal1](image/bandit21terminal1.png)
-![Terminal2](image/bandit21terminal2.png)
+
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit21terminal1.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit21terminal2.PNG)
+
 
 ## LEVEL 21
 ### LEVEL GOAL
@@ -340,9 +342,9 @@ A program is running automatically at regular intervals from cron, the time-base
 3. Now we need to open we use the command *"cat /usr/bin/cronjob_bandit22.sh"* thus we found that in a temp file it is stored.So to open we use the command *"cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv"*
 4. Thus we get the password as  **"Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI"**
 4.  Now to get into the level22 we need to connect using - ssh bandit22@bandit.labs.overthewire.org -p 2220
-and password - **Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI**
+and password - **Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI**.
 
-![Terminal1](image/bandit22.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit22.PNG)
 
 ## LEVEL 22
 ### LEVEL GOAL
@@ -356,7 +358,7 @@ A program is running automatically at regular intervals from cron, the time-base
 5.  Now to get into the level23 we need to connect using - ssh bandit23@bandit.labs.overthewire.org -p 2220
 and password - **jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n**
 
-![Terminal1](image/bandit23.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit23.PNG)
 
 ## LEVEL 23
 ### LEVEL GOAL
@@ -375,10 +377,10 @@ NOTE 2: Keep in mind that your shell script is removed once executed, so you may
 *cat /etc/bandit_pass/bandit24 > /tmp/bios/password.txt"*
 5. Opening the password.txt we get the password as  **"UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ"**
 6.  Now to get into the level24 we need to connect using - ssh bandit24@bandit.labs.overthewire.org -p 2220
-and password - **UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ**
+and password - **UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ**.
 
-![Terminal1](image/bandit24.1.png)
-![Terminal1](image/bandit24.2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit24.1.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit24.2.PNG)
 
 ## LEVEL 24
 ### LEVEL GOAL
@@ -406,10 +408,10 @@ in password.sh and using *"ls"* command we can see the *password.sh*and now we u
 6.  Now to get into the level25 we need to connect using - ssh bandit25@bandit.labs.overthewire.org -p 2220
 and password - **uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG**
 
-![Terminal1](image/bandit25.1.png)
-![Terminal1](image/bandit25.png)
-![Terminal1](image/bandit25.2.png)
-![Terminal1](image/bandit25.3.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit25.1.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit25.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit25.2.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit25.3.PNG)
 
 ## LEVEL 25
 ### LEVEL GOAL
@@ -424,9 +426,9 @@ Find out what it is, how it works and how to break out of it.
 5.  Now to get into the level26 we need to again prto open the vim and use the command *":shell"* and enter we get the 
 into bandit26.
 
-![Terminal1](image/bandit26.2.png)
-![Terminal1](image/bandit26.3.png)
-![Terminal1](image/bandit26.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit26.2.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit26.3.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/BANDIT/image/bandit26.PNG)
 
 
 
