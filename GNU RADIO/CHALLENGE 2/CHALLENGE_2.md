@@ -8,11 +8,13 @@ Make 2 GNU Radio flowgraphs implementing an AM Receiver and Transmitter and test
 
 ### 1. AM_RECIEVER
 
-![](AM_Reciever.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/AM_Reciever.PNG)
+
 
 * OUTPUT 
 
-![](OAM_Reciever.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/OAM_Reciever.PNG)
+
 
 - *"Options"* 
 --The block sets special parameters for the flow graph used to start and stop the flowgrapg at runtime .
@@ -62,14 +64,13 @@ Allows a signal to be played through your speakers or other audio device
 
 
 
-2. AM_TRANSMITTER
+## 2. AM_TRANSMITTER
 
-![](AM_Transmit.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/AM_Transmit.PNG)
 
 * OUTPUT 
 
-![](OAM_Transmit.png)
-
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/OAM_Transmit.PNG)
 
 - *"Options"* 
 --The block sets special parameters for the flow graph used to start and stop the flowgrapg at runtime .
@@ -117,13 +118,12 @@ output = prod(input_0, input_1, ...)
 ### ** WORKING **
 
 *RECIEVER*
-
-![](AM_RecieverWorking.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/AM_RecieverWorking.PNG)
 
 *TRANSMITTER*
-
-![](AM_TRAMITGettingsingnal.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/AM_TRAMITGettingsingnal.PNG)
 
 *BOTH TRANSMITTER AND RECIEVER*
 
-![](AM_RecieverandAM_TransmitterWorking.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/GNU%20RADIO/CHALLENGE%202/AM_RecieverandAM_TransmitterWorking.PNG)
+
