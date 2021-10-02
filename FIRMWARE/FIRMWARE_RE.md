@@ -3,8 +3,8 @@
 
 1. Write a program in assembly language to add two numbers and print the result.
 
-![](Add2.PNG)
-![](Add1.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/ADD2.png)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/Add1.png)
 
 ## Microcorruption
 ### Challenge 2
