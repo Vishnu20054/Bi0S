@@ -78,7 +78,7 @@ and its asks for password and i inputed it as **L,e$T+y**
 ![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image2/microcrropution_2_7.PNG)
 
 * And i found the corresponding values as per given below
-![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image2/microcrropution_2_10.PNG)
+![alt text](https://github.com/Vishnu20054/Bi0S/blob/master/FIRMWARE/image2/microcrropution_2_10.jpg)
 
 * We will input the password ones it reset using the command c
 and its asks for password and i inputed it as **C.0Qte1W**
