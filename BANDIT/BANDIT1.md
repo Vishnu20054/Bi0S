@@ -7,7 +7,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 1. We need to connect the  - bandit.labs.overthewire.org, port - 2220, username - bandit0 and password – bandit0. The option -p is tell the port to connect and the general command to connect is ssh username@address -p port.
 2. Thus we connected to the bandit.labs.overthewire.org and entered in level 0 .
 
-![title](image/bandit0.png)
+![alt text](http://url/to/img.png)
 
 ## LEVEL 0
 ### LEVEL GOAL
