@@ -23,7 +23,7 @@ We need to download the file named "flag" from our problem statement and copy an
 
 ## Flag
 
-picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
+> picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
 
 # Python Wrangling
 
@@ -47,7 +47,7 @@ Navigate to the directory where the "Python file" was download from the above li
 
 ## Flag
 
-picoCTF{4p0110_1n_7h3_h0us3_aa821c16}
+> picoCTF{4p0110_1n_7h3_h0us3_aa821c16}
 
 # Waving Flag
 
@@ -75,7 +75,7 @@ And there we would able to find the flag somewhere in the middle.
 
 ## Flag
 
-picoCTF{b1scu1ts_4nd_gr4vy_755f3544}
+> picoCTF{b1scu1ts_4nd_gr4vy_755f3544}
 
 # Nice netcat
 
@@ -99,7 +99,7 @@ There is a nice program that you can talk to by using this command in a shell: $
 
 ## Flag
 
-picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
+> picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
 
 
 # Static Ain't Always Noise
@@ -120,7 +120,6 @@ Download the static file, and search "pico", and the flag is located somewhere i
 
 > picoCTF{d15a5m_t34s3r_1e6a7731}
 
-*Make sure to type it out, otherwise the flag will not be accepted.*
 
 # Tab, Tab, Attack
 
@@ -139,14 +138,11 @@ After `unzip`ing, this problem can be solved with 11 button-presses...(mostly Ta
 
 ## Solution
 
-Um. There really isn't that many files. Unzip everything then have fun navigating using `ls` to list the folders/files and `cd <foldername>` to navigate there. Eventually there will be an [ELF file](./fang-of-haynekhtnamet) which named `fang-of-haynekhtnamet`
-`./fang-of-haynekhtnamet` to run it.
-It outputs:
-`*ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_524e3dc4}`
+
 
 ## Flag
 
-picoCTF{l3v3l_up!_t4k3_4_r35t!_524e3dc4}
+> picoCTF{l3v3l_up!_t4k3_4_r35t!_524e3dc4}
 
 # Magikarp Ground Mission
 
@@ -169,5 +165,5 @@ Do you know how to move between directories and read files in the shell? Start t
 
 ## Flag
 
-picoCTF{xxsh_0ut_0f_\/\/4t3r_5190b070}
+> picoCTF{xxsh_0ut_0f_\/\/4t3r_5190b070}
 
