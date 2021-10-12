@@ -94,8 +94,8 @@ There is a nice program that you can talk to by using this command in a shell: $
 2. You can practice reading and writing ASCII with this picoGym problem: [Let's Warm Up](https://play.picoctf.org/practice/challenge/22)
 
 ## Solution
-
-
+After Connecting to this host with netcat we found that some “character codes” in it which looks like the decimal representation of ASCII characters.
+Now we need to recognize that  character codes using some online decoder and their we have the flag.
 
 ## Flag
 
